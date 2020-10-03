@@ -1,0 +1,10 @@
+D:\ProgrC#\ProgrammSecondLesson\Hw2\bin\Debug\Hw2.exe.config
+D:\ProgrC#\ProgrammSecondLesson\Hw2\bin\Debug\Hw2.exe
+D:\ProgrC#\ProgrammSecondLesson\Hw2\bin\Debug\Hw2.pdb
+D:\ProgrC#\ProgrammSecondLesson\Hw2\obj\Debug\Hw2.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammSecondLesson\Hw2\obj\Debug\Hw2.exe
+D:\ProgrC#\ProgrammSecondLesson\Hw2\obj\Debug\Hw2.pdb
+D:\ProgrC#\ProgrammSecondLesson\Hw2\bin\Debug\ProgrammSecondLesson.exe
+D:\ProgrC#\ProgrammSecondLesson\Hw2\bin\Debug\ProgrammSecondLesson.pdb
+D:\ProgrC#\ProgrammSecondLesson\Hw2\bin\Debug\ProgrammSecondLesson.exe.config
+D:\ProgrC#\ProgrammSecondLesson\Hw2\obj\Debug\Hw2.csproj.CopyComplete
