@@ -1,7 +1,0 @@
-D:\ProgrC#\ProgrammThirdLesson\Hw2\obj\Debug\Hw2.csprojAssemblyReference.cache
-D:\ProgrC#\ProgrammThirdLesson\Hw2\obj\Debug\Hw2.csproj.CoreCompileInputs.cache
-D:\ProgrC#\ProgrammThirdLesson\Hw2\bin\Debug\Hw2.exe.config
-D:\ProgrC#\ProgrammThirdLesson\Hw2\bin\Debug\Hw2.exe
-D:\ProgrC#\ProgrammThirdLesson\Hw2\bin\Debug\Hw2.pdb
-D:\ProgrC#\ProgrammThirdLesson\Hw2\obj\Debug\Hw2.exe
-D:\ProgrC#\ProgrammThirdLesson\Hw2\obj\Debug\Hw2.pdb

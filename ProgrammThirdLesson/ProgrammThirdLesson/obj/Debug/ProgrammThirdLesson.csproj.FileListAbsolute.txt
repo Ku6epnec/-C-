@@ -1,7 +1,0 @@
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\bin\Debug\ProgrammThirdLesson.exe.config
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\bin\Debug\ProgrammThirdLesson.exe
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\bin\Debug\ProgrammThirdLesson.pdb
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\obj\Debug\ProgrammThirdLesson.csprojAssemblyReference.cache
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\obj\Debug\ProgrammThirdLesson.csproj.CoreCompileInputs.cache
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\obj\Debug\ProgrammThirdLesson.exe
-D:\ProgrC#\ProgrammThirdLesson\ProgrammThirdLesson\obj\Debug\ProgrammThirdLesson.pdb
