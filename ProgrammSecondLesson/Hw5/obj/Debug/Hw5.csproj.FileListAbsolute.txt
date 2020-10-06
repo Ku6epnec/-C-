@@ -1,0 +1,11 @@
+D:\ProgrC#\ProgrammSecondLesson\Hw5\obj\Debug\Hw5.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammSecondLesson\Hw5\obj\Debug\Hw5.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammSecondLesson\Hw5\bin\Debug\Hw5.exe.config
+D:\ProgrC#\ProgrammSecondLesson\Hw5\bin\Debug\Hw5.exe
+D:\ProgrC#\ProgrammSecondLesson\Hw5\bin\Debug\Hw5.pdb
+D:\ProgrC#\ProgrammSecondLesson\Hw5\obj\Debug\Hw5.exe
+D:\ProgrC#\ProgrammSecondLesson\Hw5\obj\Debug\Hw5.pdb
+D:\ProgrC#\ProgrammSecondLesson\Hw5\bin\Debug\ProgrammSecondLesson.exe
+D:\ProgrC#\ProgrammSecondLesson\Hw5\bin\Debug\ProgrammSecondLesson.pdb
+D:\ProgrC#\ProgrammSecondLesson\Hw5\bin\Debug\ProgrammSecondLesson.exe.config
+D:\ProgrC#\ProgrammSecondLesson\Hw5\obj\Debug\Hw5.csproj.CopyComplete

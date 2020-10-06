@@ -1,0 +1,7 @@
+D:\ProgrC#\ProgrammFourLesson\Hw2\obj\Debug\Hw2.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammFourLesson\Hw2\obj\Debug\Hw2.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammFourLesson\Hw2\bin\Debug\Hw2.exe.config
+D:\ProgrC#\ProgrammFourLesson\Hw2\bin\Debug\Hw2.exe
+D:\ProgrC#\ProgrammFourLesson\Hw2\bin\Debug\Hw2.pdb
+D:\ProgrC#\ProgrammFourLesson\Hw2\obj\Debug\Hw2.exe
+D:\ProgrC#\ProgrammFourLesson\Hw2\obj\Debug\Hw2.pdb
