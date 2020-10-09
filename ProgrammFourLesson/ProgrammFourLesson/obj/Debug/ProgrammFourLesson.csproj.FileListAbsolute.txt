@@ -1,0 +1,7 @@
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\bin\Debug\ProgrammFourLesson.exe.config
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\bin\Debug\ProgrammFourLesson.exe
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\bin\Debug\ProgrammFourLesson.pdb
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\obj\Debug\ProgrammFourLesson.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\obj\Debug\ProgrammFourLesson.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\obj\Debug\ProgrammFourLesson.exe
+D:\ProgrC#\ProgrammFourLesson\ProgrammFourLesson\obj\Debug\ProgrammFourLesson.pdb
