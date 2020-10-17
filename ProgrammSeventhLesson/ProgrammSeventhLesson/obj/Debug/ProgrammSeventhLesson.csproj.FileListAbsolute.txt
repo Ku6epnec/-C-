@@ -1,0 +1,11 @@
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\bin\Debug\ProgrammSeventhLesson.exe.config
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\bin\Debug\ProgrammSeventhLesson.exe
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\bin\Debug\ProgrammSeventhLesson.pdb
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.Properties.Resources.resources
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.csproj.GenerateResource.cache
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.exe
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.pdb
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.Number.resources
+D:\ProgrC#\ProgrammSeventhLesson\ProgrammSeventhLesson\obj\Debug\ProgrammSeventhLesson.Doubler.resources

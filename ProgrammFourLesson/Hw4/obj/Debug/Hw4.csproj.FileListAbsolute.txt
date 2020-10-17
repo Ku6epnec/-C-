@@ -1,0 +1,6 @@
+D:\ProgrC#\ProgrammFourLesson\Hw4\obj\Debug\Hw4.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammFourLesson\Hw4\bin\Debug\Hw4.exe.config
+D:\ProgrC#\ProgrammFourLesson\Hw4\bin\Debug\Hw4.exe
+D:\ProgrC#\ProgrammFourLesson\Hw4\bin\Debug\Hw4.pdb
+D:\ProgrC#\ProgrammFourLesson\Hw4\obj\Debug\Hw4.exe
+D:\ProgrC#\ProgrammFourLesson\Hw4\obj\Debug\Hw4.pdb

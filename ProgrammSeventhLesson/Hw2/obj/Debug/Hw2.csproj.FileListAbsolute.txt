@@ -1,0 +1,11 @@
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\bin\Debug\Hw2.exe.config
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\bin\Debug\Hw2.exe
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\bin\Debug\Hw2.pdb
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.Form1.resources
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.Properties.Resources.resources
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.csproj.GenerateResource.cache
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.exe
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.pdb
+D:\ProgrC#\ProgrammSeventhLesson\Hw2\obj\Debug\Hw2.Enter.resources
