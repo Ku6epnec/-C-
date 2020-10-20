@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sample</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div id="header">
+	<a href="#">Главная</a><span>/</span>
+	<a href="puzzles.html">Загадки</a><span>/</span>
+	<a href="quess.html">Угадайка</a><span>/</span>
+	<a href="03_script_mult.html">Угадайка. Мультиплеер</a><span>/</span>
+</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\bin\Debug\ProgrammSecondLesson.exe.config
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\bin\Debug\ProgrammSecondLesson.exe
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\bin\Debug\ProgrammSecondLesson.pdb
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\obj\Debug\ProgrammSecondLesson.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\obj\Debug\ProgrammSecondLesson.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\obj\Debug\ProgrammSecondLesson.exe
+D:\ProgrC#\ProgrammSecondLesson\ProgrammSecondLesson\obj\Debug\ProgrammSecondLesson.pdb

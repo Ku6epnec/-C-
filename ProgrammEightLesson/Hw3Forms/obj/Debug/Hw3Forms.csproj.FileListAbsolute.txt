@@ -1,0 +1,10 @@
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\bin\Debug\Hw3Forms.exe.config
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\bin\Debug\Hw3Forms.exe
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\bin\Debug\Hw3Forms.pdb
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.Form1.resources
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.Properties.Resources.resources
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.csproj.GenerateResource.cache
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.exe
+D:\ProgrC#\ProgrammEightLesson\Hw3Forms\obj\Debug\Hw3Forms.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <text>В Японии ученики на доске пишут кисточкой с цветными чернилами?</text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>В Австралии практикуется применение одноразовых школьных досок? </text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>Авторучка была изобретена еще в Древнем Египте?</text>
+    <trueFalse>true</trueFalse>
+  </Question>
+</ArrayOfQuestion>

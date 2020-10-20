@@ -1,0 +1,10 @@
+D:\ProgrC#\ProgrammEightLesson\Hw4\bin\Debug\Hw4.exe.config
+D:\ProgrC#\ProgrammEightLesson\Hw4\bin\Debug\Hw4.exe
+D:\ProgrC#\ProgrammEightLesson\Hw4\bin\Debug\Hw4.pdb
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.Form1.resources
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.Properties.Resources.resources
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.csproj.GenerateResource.cache
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.exe
+D:\ProgrC#\ProgrammEightLesson\Hw4\obj\Debug\Hw4.pdb

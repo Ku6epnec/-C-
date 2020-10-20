@@ -1,0 +1,6 @@
+D:\ProgrC#\ProgrammFourLesson\Hw5\bin\Debug\Hw5.exe.config
+D:\ProgrC#\ProgrammFourLesson\Hw5\bin\Debug\Hw5.exe
+D:\ProgrC#\ProgrammFourLesson\Hw5\bin\Debug\Hw5.pdb
+D:\ProgrC#\ProgrammFourLesson\Hw5\obj\Debug\Hw5.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammFourLesson\Hw5\obj\Debug\Hw5.exe
+D:\ProgrC#\ProgrammFourLesson\Hw5\obj\Debug\Hw5.pdb

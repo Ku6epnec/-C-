@@ -1,0 +1,7 @@
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\obj\Debug\ProgramFirstLesson.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\obj\Debug\ProgramFirstLesson.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\bin\Debug\ProgramFirstLesson.exe.config
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\bin\Debug\ProgramFirstLesson.exe
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\bin\Debug\ProgramFirstLesson.pdb
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\obj\Debug\ProgramFirstLesson.exe
+D:\ProgrC#\ProgrammFirstLesson\ProgramFirstLesson\ProgramFirstLesson\obj\Debug\ProgramFirstLesson.pdb
