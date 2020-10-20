@@ -1,0 +1,7 @@
+D:\ProgrC#\ProgrammEightLesson\Hw3\bin\Debug\Hw3.exe.config
+D:\ProgrC#\ProgrammEightLesson\Hw3\bin\Debug\Hw3.exe
+D:\ProgrC#\ProgrammEightLesson\Hw3\bin\Debug\Hw3.pdb
+D:\ProgrC#\ProgrammEightLesson\Hw3\obj\Debug\Hw3.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammEightLesson\Hw3\obj\Debug\Hw3.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammEightLesson\Hw3\obj\Debug\Hw3.exe
+D:\ProgrC#\ProgrammEightLesson\Hw3\obj\Debug\Hw3.pdb

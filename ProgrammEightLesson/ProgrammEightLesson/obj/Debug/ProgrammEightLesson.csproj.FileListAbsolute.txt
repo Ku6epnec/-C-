@@ -1,0 +1,7 @@
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\bin\Debug\ProgrammEightLesson.exe.config
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\bin\Debug\ProgrammEightLesson.exe
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\bin\Debug\ProgrammEightLesson.pdb
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\obj\Debug\ProgrammEightLesson.csprojAssemblyReference.cache
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\obj\Debug\ProgrammEightLesson.csproj.CoreCompileInputs.cache
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\obj\Debug\ProgrammEightLesson.exe
+D:\ProgrC#\ProgrammEightLesson\ProgrammEightLesson\obj\Debug\ProgrammEightLesson.pdb
